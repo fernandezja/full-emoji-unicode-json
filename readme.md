@@ -3,8 +3,8 @@ From [https://unicode.org/emoji/charts/full-emoji-list.html](https://unicode.org
 
 
 ### Consumable files
- - emojis.json
- - emojis.min.json
+ - [emojis.json](https://raw.githubusercontent.com/fernandezja/full-emoji-unicode-json/master/emojis.json)
+ - [emojis.min.json](https://raw.githubusercontent.com/fernandezja/full-emoji-unicode-json/master/emojis.min.json)
 
 
 ### Example
