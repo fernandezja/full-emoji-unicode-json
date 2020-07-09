@@ -10,12 +10,12 @@ From [https://unicode.org/emoji/charts/full-emoji-list.html](https://unicode.org
 ### Example
 ```json
  {
-      "chars":"😀",
-      "group":"Smileys & Emotion",
-      "subgroup":"face-smiling",
-      "number":null,
-      "code":"grinning face",
-      "shortname":"U+1F600"
+    "chars": "😀",
+    "group": "Smileys & Emotion",
+    "subgroup": "face-smiling",
+    "number": "1",
+    "code": "U+1F600",
+    "shortname": "grinning face"
    },
 ```
 
