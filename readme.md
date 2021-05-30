@@ -1,5 +1,5 @@
 # Unicode.org full emoji list into json format files
-From [https://unicode.org/emoji/charts/full-emoji-list.html](https://unicode.org/emoji/charts/full-emoji-list.html) update to v13.0
+From [https://unicode.org/emoji/charts/full-emoji-list.html](https://unicode.org/emoji/charts/full-emoji-list.html) update to v13.1
 
 
 ### Consumable files
@@ -18,6 +18,9 @@ From [https://unicode.org/emoji/charts/full-emoji-list.html](https://unicode.org
     "shortname": "grinning face"
    },
 ```
+
+### Previous versions
+ - [v13.0]
 
 ### Unicode licence
 https://www.unicode.org/license.html
