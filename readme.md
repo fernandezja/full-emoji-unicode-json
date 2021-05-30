@@ -1,8 +1,8 @@
 # Unicode.org full emoji list into json format files
-From [https://unicode.org/emoji/charts/full-emoji-list.html](https://unicode.org/emoji/charts/full-emoji-list.html) update to v13.0
+From [https://unicode.org/emoji/charts/full-emoji-list.html](https://unicode.org/emoji/charts/full-emoji-list.html) update to v13.1
 
 
-### Consumable files
+### Consumable files v13.1
  - [emojis.json](https://raw.githubusercontent.com/fernandezja/full-emoji-unicode-json/master/emojis.json) | [Raw json file ](https://raw.githubusercontent.com/fernandezja/full-emoji-unicode-json/master/emojis.json) | [Validate](https://jsonformatter.org/?url=https://raw.githubusercontent.com/fernandezja/full-emoji-unicode-json/master/emojis.json)
  - [emojis.min.json](https://raw.githubusercontent.com/fernandezja/full-emoji-unicode-json/master/emojis.min.json) | [Raw json file ](https://raw.githubusercontent.com/fernandezja/full-emoji-unicode-json/master/emojis.min.json) | [Validate](https://jsonformatter.org/?url=https://raw.githubusercontent.com/fernandezja/full-emoji-unicode-json/master/emojis.min.json)
 
@@ -18,6 +18,15 @@ From [https://unicode.org/emoji/charts/full-emoji-list.html](https://unicode.org
     "shortname": "grinning face"
    },
 ```
+
+
+### Previous versions
+
+| Version   |      Json      |      Raw json file      |      Validate      |
+|----------|:-------------:|
+| v13.0 emojis.json|  [emojis.json](https://raw.githubusercontent.com/fernandezja/full-emoji-unicode-json/master/v13.0/emojis.json) | [Raw json file ](https://raw.githubusercontent.com/fernandezja/full-emoji-unicode-json/master/v13.0/emojis.json) | [Validate](https://jsonformatter.org/?url=https://raw.githubusercontent.com/fernandezja/full-emoji-unicode-json/master/v13.0/emojis.json)| 
+| v13.0 emojis.min.json|  [emojis.min.json](https://raw.githubusercontent.com/fernandezja/full-emoji-unicode-json/master/v13.0/emojis.min.json) | [Raw json file ](https://raw.githubusercontent.com/fernandezja/full-emoji-unicode-json/master/v13.0/emojis.min.json) | [Validate](https://jsonformatter.org/?url=https://raw.githubusercontent.com/fernandezja/full-emoji-unicode-json/master/v13.0/emojis.min.json)| 
+
 
 ### Unicode licence
 https://www.unicode.org/license.html
