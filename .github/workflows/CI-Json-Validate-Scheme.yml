@@ -29,5 +29,5 @@ jobs:
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: emoji-json-scheme.json
-          INPUT_JSONS: emojis.json
+          INPUT_SCHEMA: /github/workspace/emoji-json-scheme.json
+          INPUT_JSONS: /github/workspace/emojis.json
